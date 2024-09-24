@@ -1,2 +1,15 @@
-# Ai_Assistant
-AI Assistant is a voice-activated personal assistant that uses OpenAI's language models to respond to commands. It supports website access, music playback, and chat functionality, enhancing productivity through speech recognition. Easily customizable and user-friendly, it's perfect for daily tasks.
+AI Assistant is a voice-activated personal assistant that helps you perform various tasks through speech recognition. It leverages OpenAI's language models for intelligent responses and can execute commands to enhance your productivity.
+
+Features:
+
+Voice recognition for user commands
+
+Quick access to popular websites
+
+Engaging chat functionality
+
+Music playback capabilities
+
+Current time management
+
+Customizable commands
